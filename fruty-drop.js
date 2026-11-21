@@ -19,7 +19,7 @@ function selectMedia(button) {
     video.setAttribute('aria-label', button.dataset.mediaLabel);
   } else {
     image.src = button.dataset.mediaSrc;
-    image.alt = `Fruty Drop: Crush and Sort — ${button.dataset.mediaLabel}`;
+    image.alt = `Fruit Drop — ${button.dataset.mediaLabel}`;
   }
   video.load();
   caption.textContent = window.portfolioI18n.t(button.dataset.mediaLabel);

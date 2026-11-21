@@ -12,6 +12,7 @@
     'Building playful worlds, satisfying mechanics,': 'Xây dựng thế giới game, cơ chế cuốn hút',
     'and tools that bring great game ideas to life.': 'và công cụ biến ý tưởng thành trải nghiệm.',
     'View Projects': 'Xem dự án', 'Download CV': 'Tải CV',
+    'Get on Google Play': 'Tải trên Google Play', 'Download via APKPure': 'Tải qua APKPure',
     'I’m': 'Tôi là',
     ', a fresher game developer with hands-on experience in Unity, C#, and 2D/3D games. I’m a fast learner, detail-oriented, and eager to contribute creative ideas.': ', một lập trình viên game fresher có kinh nghiệm thực tế với Unity, C# và game 2D/3D. Tôi học hỏi nhanh, chú trọng chi tiết và luôn sẵn sàng đóng góp ý tưởng sáng tạo.',
     'My goal is to grow through real-world projects and become a Game Development Team Leader within the next five years.': 'Mục tiêu của tôi là phát triển qua các dự án thực tế và trở thành trưởng nhóm phát triển game trong 5 năm tới.',
